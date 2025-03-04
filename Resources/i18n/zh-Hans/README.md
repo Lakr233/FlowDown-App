@@ -2,9 +2,13 @@
 
 浮望（FlowDown）是一个速度极快、平滑的 AI/LLM 客户端应用程序。
 
+## 访问文档
+
+请考虑查看文档：[https://apps.qaq.wiki/docs/flowdown/zh/](https://apps.qaq.wiki/docs/flowdown/zh/)
+
 ## 保持联系
 
-请考虑加入我们的聊天：[Discord](https://discord.gg/UHKMRyJcgc)。我们正在努力完成功能，可能无法及时回复您。
+请考虑加入我们的聊天：[Discord](https://discord.gg/UHKMRyJcgc)。
 
 ## 预览
 
