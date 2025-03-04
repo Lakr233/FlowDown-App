@@ -7,9 +7,13 @@ FlowDown is a blazing fast and smooth client app for using AI/LLM.
   <a href="/Resources/i18n/zh-Hans/README.md">简体中文</a>
 </p>
 
+## Documentations
+
+Please have a look at: [https://apps.qaq.wiki/docs/flowdown/](https://apps.qaq.wiki/docs/flowdown/)
+
 ## Keep in touch
 
-Please consider join our discussion on [Discord](https://discord.gg/UHKMRyJcgc). We are working hard to get features done and might not be able to response to you quickly.
+Please consider join our discussion on [Discord](https://discord.gg/UHKMRyJcgc).
 
 ## Preview
 
