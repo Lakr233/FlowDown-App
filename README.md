@@ -9,7 +9,7 @@ FlowDown is a blazing fast and smooth client app for using AI/LLM.
 
 ## Documentations
 
-Please have a look at: [https://apps.qaq.wiki/docs/flowdown/](https://apps.qaq.wiki/docs/flowdown/)
+By downloading FlowDown from App Store, free models are included. To use our product, have a look at: [https://apps.qaq.wiki/docs/flowdown/](https://apps.qaq.wiki/docs/flowdown/) 
 
 ## Keep in touch
 
