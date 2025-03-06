@@ -4,7 +4,7 @@
 
 ## 访问文档
 
-请考虑查看文档：[https://apps.qaq.wiki/docs/flowdown/zh/](https://apps.qaq.wiki/docs/flowdown/zh/)
+当你从 App Store 下载我们的软件时，浮望内置免费的对话模型。关于使用上的具体事项，请考虑查看文档：[https://apps.qaq.wiki/docs/flowdown/zh/](https://apps.qaq.wiki/docs/flowdown/zh/)
 
 ## 保持联系
 
